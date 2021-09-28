@@ -1,4 +1,4 @@
-# DeepScale
+# Extra-Deep
 
 This repository provides additional materials to our paper to simplify the reproducability of results. It also containes further evaluation results that could not be shown in the paper due to the lack of space. The repository contains the following things:
 
