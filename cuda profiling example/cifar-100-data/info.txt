@@ -1,2 +1,0 @@
-The file size is too large for Github.
-Data is available at: http://www.cs.utoronto.ca/~kriz/cifar.html
